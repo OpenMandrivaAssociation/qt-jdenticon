@@ -1,3 +1,4 @@
+%define _empty_manifest_terminate_build 0
 %global __provides_exclude_from ^%{_qt5_plugindir}/.*\\.so$
  
 Name: qt-jdenticon
