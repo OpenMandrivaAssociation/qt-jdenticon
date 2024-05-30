@@ -3,7 +3,7 @@
  
 Name: qt-jdenticon
 Version: 0.3.0
-Release: 3
+Release: 4
 License: MIT
 Summary: Jdenticon Qt5 plugin
 URL: https://github.com/Nheko-Reborn/qt-jdenticon
