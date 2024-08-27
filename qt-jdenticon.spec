@@ -2,8 +2,8 @@
 %global __provides_exclude_from ^%{_qt5_plugindir}/.*\\.so$
  
 Name: qt-jdenticon
-Version: 0.3.0
-Release: 4
+Version: 0.3.1
+Release: 1
 License: MIT
 Summary: Jdenticon Qt5 plugin
 URL: https://github.com/Nheko-Reborn/qt-jdenticon
